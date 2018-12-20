@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>aspnet-bowerMiniCRM-9D1EA1F5-7AB4-45F7-A5BD-E3921331D6AF</UserSecretsId>
+    <AssemblyName>bowerMiniCRM</AssemblyName>
+    <RootNamespace>bowerMiniCRM</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.4" PrivateAssets="all">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.6" PrivateAssets="All" />
+    <PackageReference Include="BuildBundlerMinifier" Version="2.8.391" />
+    <PackageReference Include="Sendgrid" Version="9.10.0" />
+  </ItemGroup>
+</Project>

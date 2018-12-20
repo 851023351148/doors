@@ -1,0 +1,12 @@
+D:\Projects\bowerMiniCRM\bowerMiniCRM\bin\Debug\netcoreapp2.0\bowerMiniCRM.deps.json
+D:\Projects\bowerMiniCRM\bowerMiniCRM\bin\Debug\netcoreapp2.0\bowerMiniCRM.runtimeconfig.json
+D:\Projects\bowerMiniCRM\bowerMiniCRM\bin\Debug\netcoreapp2.0\bowerMiniCRM.runtimeconfig.dev.json
+D:\Projects\bowerMiniCRM\bowerMiniCRM\bin\Debug\netcoreapp2.0\bowerMiniCRM.dll
+D:\Projects\bowerMiniCRM\bowerMiniCRM\bin\Debug\netcoreapp2.0\bowerMiniCRM.pdb
+D:\Projects\bowerMiniCRM\bowerMiniCRM\obj\Debug\netcoreapp2.0\bowerMiniCRM.csprojAssemblyReference.cache
+D:\Projects\bowerMiniCRM\bowerMiniCRM\obj\Debug\netcoreapp2.0\bowerMiniCRM.csproj.CoreCompileInputs.cache
+D:\Projects\bowerMiniCRM\bowerMiniCRM\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Projects\bowerMiniCRM\bowerMiniCRM\obj\Debug\netcoreapp2.0\bowerMiniCRM.AssemblyInfoInputs.cache
+D:\Projects\bowerMiniCRM\bowerMiniCRM\obj\Debug\netcoreapp2.0\bowerMiniCRM.AssemblyInfo.cs
+D:\Projects\bowerMiniCRM\bowerMiniCRM\obj\Debug\netcoreapp2.0\bowerMiniCRM.dll
+D:\Projects\bowerMiniCRM\bowerMiniCRM\obj\Debug\netcoreapp2.0\bowerMiniCRM.pdb
